@@ -1,2 +1,1 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/green-free-one-page-bootstrap-template/
+Eat enough helps to calculate no of calories and the health monitor within it
